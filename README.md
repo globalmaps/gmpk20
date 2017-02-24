@@ -9,5 +9,5 @@ Credit: "Global Map of Pakistan © ISCGM/Survey of Pakistan"
 
 Contact:Survey of Pakistan.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/pakistan.png)
+E-mail: ![email](email.png)
 
